@@ -1,7 +1,7 @@
 {
-  "name": "notes-app-api",
+  "name": "serverless-stack-api",
   "version": "1.1.0",
-  "description": "A Node.js starter for the Serverless Framework with async/await and unit test support",
+  "description": "Serverless Stack API",
   "main": "handler.js",
   "scripts": {
     "test": "jest"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnomalyInnovations/serverless-nodejs-starter.git"
+    "url": "https://github.com/flische/serverless-nodejs-starter.git"
   },
   "devDependencies": {
     "aws-sdk": "^2.224.1",
